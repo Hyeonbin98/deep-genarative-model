@@ -5,4 +5,6 @@
 *.pkl
 *.jpg
 *.zip
+*.tar.gz
+*.pth
 .vscode/
